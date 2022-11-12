@@ -1,0 +1,30 @@
+{
+    "name": "Floki Qatari",
+    "website": "https://www.flokiqatari.io/",
+    "description": "FlokiQatari Token Aims to be a top memecoin in this 2022 Worldcup season. With many explosive development plans, FlokiQatari has a Mission to bring huge profits to investors. Let's join The extended Floki family, let's celebrate the World cup 2022 with FlokiQatari.
+.",
+    "explorer": "https://bscscan.com/address/0x5cE56414323E9f369a091fB2103a9bAFDeA3A204",
+ 
+    "symbol": "FQR",
+    "type": "Token",
+    "decimals": 18,
+    "status": "active",
+    "tags": [
+        "staking-native"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/plugazwx0"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/FlokiQatari"
+        },
+
+        {
+            "name": "whitepaper",
+            "url": "https://www.flokiqatari.io/whitepaper.pdf"
+        }
+    ]
+}
